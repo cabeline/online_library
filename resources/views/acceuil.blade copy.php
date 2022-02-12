@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-   
-<head>
+    <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -14,9 +13,8 @@
         <!-- Styles -->
        
     </head>
-    <body >
-       
-    <img src="" alt="">
+    <body>
+        <img src="" alt="">
         <a href="acceuil">Acceuil</a>
         <a href="inscription">inscription</a>
         <a href="connexion">connexion</a>
